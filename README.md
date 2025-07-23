@@ -5,9 +5,7 @@
 <h1 align="center" style="font-family:verdana"><span style="font-family:Times new Roman">A Passionate Computer Science Student</span>
 </h1>
 
-<div style="display: flex; justify-content: flex-end;">
-  <img alt="Robot" height="300" width="300" src="./hi.png" style="margin-right: 40px;"/>
-</div>
+<img align="right" alt="Robot" height="300" width="300" src="./hi.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Faizanasif728&label=Profile%20views&color=0e75b6&style=flat" alt="Faizanasif728" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Web development**
@@ -18,7 +16,7 @@
 
 
 <h2 align="left">Connect with me:</h2>
-<hr align="left" width="50%" />
+
 <p align="left">
 <a href="https://www.linkedin.com/in/faizan-asif22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan asif" height="30" width="40" /></a>
 <a href="https://www.instagram.com/faizyfrr/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
