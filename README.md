@@ -5,9 +5,7 @@
 <h1 align="center" style="font-family:verdana"><span style="font-family:Times new Roman">A Passionate Computer Science Student</span>
 </h1>
 
-<p align="center">
-  <img src="./hi.png" alt="Robot" height="300"/>
-</p>
+<img align="right" alt="Robot" height="300" width="300" src="./hi.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Faizanasif728&label=Profile%20views&color=0e75b6&style=flat" alt="Faizanasif728" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Web development**
