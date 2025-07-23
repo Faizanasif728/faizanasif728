@@ -10,9 +10,9 @@
 
 - 🔭  I'm currently diving deep into modern **"Full Stack Web Development"**.
 
-- 🌱 Constantly expanding my skillset with emerging **technologies** and modern **tools**.
+- 🌱 Constantly expanding my skillset with emerging **technologies**, **tools**.
 
-- 💬 Open to discussions around **MERN stack** and **core programming concepts**.
+- 💬 Open to discussions around **MERN stack**, **programming concepts**.
 
 - 🚀 Driven to build **innovative solutions** that tackle **real-world challenges**.
 
