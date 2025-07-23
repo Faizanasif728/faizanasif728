@@ -75,11 +75,8 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="./assets/mindview.png" alt="MindView" width="40" height="40"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" alt="Profile" width="40" height="40"/>
-  </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="Microsoft Office" width="40" height="40"/>
+    <img src="./assets/msoffice.png" alt="Microsoft Office" width="40" height="40"/>
   </a>
   <!-- Postman -->
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
@@ -88,10 +85,6 @@
   <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <!-- DeepSeek -->
-  <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/162888509?s=200&v=4" alt="DeepSeek" width="40" height="40"/>
   </a>
 </p>
 </body>
