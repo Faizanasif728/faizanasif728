@@ -81,16 +81,6 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <!-- ChatGPT -->
-  <a href="https://openai.com/blog/chatgpt" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="ChatGPT" width="40" height="40"/></a>
-  <!-- Claude AI -->
-  <a href="https://claude.ai/" target="_blank"><img src="./claude.png" alt="Claude AI" width="40" height="40"/></a>
-  <!-- DeepSeek -->
-  <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/162888509?s=200&v=4" alt="DeepSeek" width="40" height="40"/>
-  </a>
-  <!-- Grok AI -->
-  <a href="https://grok.x.ai/" target="_blank"><img src="./grok.png" alt="Grok AI" width="40" height="40"/></a>
 </p>
 
   </body>
