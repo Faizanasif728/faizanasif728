@@ -17,11 +17,6 @@
 
 <h2 align="left">Connect with me:</h2>
 
-<div style="display: flex; justify-content: flex-end;">
-  <img alt="Robot" height="300" width="300" src="./hi.png" style="margin-right: 40px;"/>
-</div>
-
-<hr align="left" width="50%" />
 <p align="left">
 <a href="https://www.linkedin.com/in/faizan-asif22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan asif" height="30" width="40" /></a>
 <a href="https://www.instagram.com/faizyfrr/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
