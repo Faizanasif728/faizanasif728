@@ -20,7 +20,7 @@
 
 - 🛠️ Grateful to collaborate on **open-source projects** that make a **difference**.
 
-- 📚  Committed to **lifelong learning**, **personal growth**, and **knowledge sharing**.
+- 📚  Committed to **lifelong learning**, **knowledge**, **personal growth**.
 
 
 <h2 align="left">Connect with me:</h2>
