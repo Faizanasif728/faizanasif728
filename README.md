@@ -46,14 +46,17 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  <!-- Node.js (local) -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+    <img src="./assets/nodejs.png" alt="Node.js" width="40" height="40"/>
   </a>
+  <!-- Express (local) -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+    <img src="./assets/express.png" alt="Express.js" width="40" height="40"/>
   </a>
+  <!-- Firebase (local) -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+    <img src="./assets/firebase.png" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
@@ -64,8 +67,13 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
+  <!-- Canva (local) -->
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+    <img src="./assets/canva.png" alt="Canva" width="40" height="40"/>
+  </a>
+  <!-- MindView (local) -->
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="./assets/mindview.png" alt="MindView" width="40" height="40"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" alt="Profile" width="40" height="40"/>
@@ -81,6 +89,9 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
+  <!-- DeepSeek -->
+  <a href="https://www.deepseek.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/162888509?s=200&v=4" alt="DeepSeek" width="40" height="40"/>
+  </a>
 </p>
-
-  </body>
+</body>
